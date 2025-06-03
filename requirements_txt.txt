@@ -1,0 +1,17 @@
+# requirements.txt
+# Hệ thống quản lý tích hợp KPI, Phòng ban, Cán bộ
+
+# Tkinter có sẵn trong Python, không cần cài đặt riêng
+# SQLite3 có sẵn trong Python, không cần cài đặt riêng
+
+# Các thư viện chuẩn Python đã được sử dụng:
+# - tkinter (GUI)
+# - sqlite3 (Database)
+# - csv (Export/Import CSV)
+# - json (Backup/Restore)
+# - datetime (Date/Time handling)
+# - uuid (Unique ID generation)
+# - os (File system operations)
+
+# Không cần cài đặt thêm thư viện nào khác
+# Chạy trực tiếp với Python 3.6+ mặc định
